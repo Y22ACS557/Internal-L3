@@ -5,4 +5,9 @@ this is local file from fb
 
 =======
 ort without confit
+<<<<<<< HEAD
 >>>>>>> feature-branch
+=======
+rebase operation
+
+>>>>>>> 2a48c50 (local-file modified again in fb)
